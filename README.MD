@@ -1,9 +1,7 @@
 # How to use:
 run the `DotNet Injector.exe` file and wait for it to load, use the window selector/finder to select the process to inject itself. after a successful injection you can load your own application to load in the targeted application.
 
-note: This injector only works on .net applications (VB.NET, C#, and some more)
-
-extra note: I haven't used the dll loader yet so it might not work correctly.
+note: This injector works best on .net applications (VB.NET, C#, and some more)
 
 
 # Building
